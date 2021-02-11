@@ -1,2 +1,2 @@
 # HackerRank
-My own solutions to variuos challenges on HackerRank platform.
+My own solutions to various challenges on HackerRank platform.
